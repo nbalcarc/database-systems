@@ -1,4 +1,4 @@
-# database-systems
+# Database Systems
 Personal repository for my database systems course
 
 ## License
